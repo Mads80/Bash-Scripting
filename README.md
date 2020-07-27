@@ -1,4 +1,4 @@
-# Bash scripting
+# :keyboard: Bash scripting
 
 ```Bash
 $ bash --version
