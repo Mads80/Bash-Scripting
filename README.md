@@ -3,6 +3,7 @@
 ```Bash
 $ bash --version
 ```
+![](images/image1.png)
 
 Common bash commands:
 ```Bash
