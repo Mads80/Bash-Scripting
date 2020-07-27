@@ -38,7 +38,7 @@ $ nano comment.sh
 #!/bin/bash
 ```
 
-# Add two numeric value
+Add two numeric values:
 ```Bash
 ((sum=25+35))
 
